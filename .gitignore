@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Generated videos
+*.mp4
+*.avi
+*.mkv
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
